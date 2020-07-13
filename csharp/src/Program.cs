@@ -9,7 +9,7 @@ namespace game
             Interactive block = new GameObject(10, 10);
             block.interact();
 
-            // comment aaa
+            // comment aaa asassa
         }
     }
 }
