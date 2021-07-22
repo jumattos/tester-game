@@ -8,3 +8,6 @@ typescript/lib
 
 # Java
 java/lib
+
+# VS
+/.vs
